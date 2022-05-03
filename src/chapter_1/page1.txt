@@ -1,0 +1,4 @@
+
+Hello!
+Here is some sample text for Git
+This will commence the start of "My Book"
